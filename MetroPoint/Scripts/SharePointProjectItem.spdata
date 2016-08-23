@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.7.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.7.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-1.7.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="tile-slider.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="tile-drag.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="start-menu.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="slider.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="rating.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="pagecontrol.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="input-control.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="dropdown.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="dialog.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="carousel.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="calendar.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="buttonset.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="accordion.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.mousewheel.min.js" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

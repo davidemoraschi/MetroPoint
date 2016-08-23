@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="images\" Type="ElementManifest" />
+    <ProjectItemFile Source="AppIcon.png" Target="images\" Type="ElementFile" />
+    <ProjectItemFile Source="preloader-w8-cycle-black.gif" Target="images\" Type="ElementFile" />
+    <ProjectItemFile Source="preloader-w8-cycle-white.gif" Target="images\" Type="ElementFile" />
+    <ProjectItemFile Source="preloader-w8-line-black.gif" Target="images\" Type="ElementFile" />
+    <ProjectItemFile Source="preloader-w8-line-white.gif" Target="images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

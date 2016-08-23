@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="images\AppIcon.png" Url="images/AppIcon.png" />
+    <File Path="images\preloader-w8-cycle-black.gif" Url="images/preloader-w8-cycle-black.gif" />
+    <File Path="images\preloader-w8-cycle-white.gif" Url="images/preloader-w8-cycle-white.gif" />
+    <File Path="images\preloader-w8-line-black.gif" Url="images/preloader-w8-line-black.gif" />
+    <File Path="images\preloader-w8-line-white.gif" Url="images/preloader-w8-line-white.gif" />
+  </Module>
+</Elements>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" />
+    <File Path="Scripts\jquery-1.7.1.min.js" Url="Scripts/jquery-1.7.1.min.js" />
+    <File Path="Scripts\jquery-1.7.1.js" Url="Scripts/jquery-1.7.1.js" />
+    <File Path="Scripts\jquery-1.7.1.intellisense.js" Url="Scripts/jquery-1.7.1.intellisense.js" />
+    <File Path="Scripts\tile-slider.js" Url="Scripts/tile-slider.js" />
+    <File Path="Scripts\tile-drag.js" Url="Scripts/tile-drag.js" />
+    <File Path="Scripts\start-menu.js" Url="Scripts/start-menu.js" />
+    <File Path="Scripts\slider.js" Url="Scripts/slider.js" />
+    <File Path="Scripts\rating.js" Url="Scripts/rating.js" />
+    <File Path="Scripts\pagecontrol.js" Url="Scripts/pagecontrol.js" />
+    <File Path="Scripts\input-control.js" Url="Scripts/input-control.js" />
+    <File Path="Scripts\dropdown.js" Url="Scripts/dropdown.js" />
+    <File Path="Scripts\dialog.js" Url="Scripts/dialog.js" />
+    <File Path="Scripts\carousel.js" Url="Scripts/carousel.js" />
+    <File Path="Scripts\calendar.js" Url="Scripts/calendar.js" />
+    <File Path="Scripts\buttonset.js" Url="Scripts/buttonset.js" />
+    <File Path="Scripts\accordion.js" Url="Scripts/accordion.js" />
+  </Module>
+</Elements>

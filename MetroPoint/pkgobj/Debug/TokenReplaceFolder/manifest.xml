@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fecf9d92-e9b3-4bf9-8c7b-25f292702176" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="MetroPoint_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

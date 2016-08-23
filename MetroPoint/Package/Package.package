@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fecf9d92-e9b3-4bf9-8c7b-25f292702176" 
+        solutionId="fecf9d92-e9b3-4bf9-8c7b-25f292702176" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="MetroPoint"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="ab1456d2-9fad-404f-82d9-a1e888c2c169" />
+  </features>
+</package>

@@ -1,0 +1,4 @@
+C:\Users\Davide\Dropbox\SOURCES\MetroPoint\MetroPoint\bin\Debug\MetroPoint.pdb
+C:\Users\Davide\Dropbox\SOURCES\MetroPoint\MetroPoint\obj\Debug\MetroPoint.dll
+C:\Users\Davide\Dropbox\SOURCES\MetroPoint\MetroPoint\obj\Debug\MetroPoint.pdb
+C:\Users\Davide\Dropbox\SOURCES\MetroPoint\MetroPoint\obj\Debug\MetroPoint.csprojResolveAssemblyReference.cache

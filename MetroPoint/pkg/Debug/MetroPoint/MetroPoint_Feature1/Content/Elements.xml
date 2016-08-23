@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" />
+    <File Path="Content\modern.css" Url="Content/modern.css" />
+    <File Path="Content\modern-responsive.css" Url="Content/modern-responsive.css" />
+    <File Path="Content\theme-dark.css" Url="Content/theme-dark.css" />
+  </Module>
+</Elements>
